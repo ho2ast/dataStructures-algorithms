@@ -29,7 +29,7 @@ import java.util.*;
     [3,3,3,2,2,2] 2
     */
 
-class Solution {
+public class Pocketmon {
     public int solution(int[] nums) {
         int answer = 0;
         int count = nums.length / 2;
